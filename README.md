@@ -73,10 +73,6 @@ Centro Universitário Braz Cubas · concluído em dezembro de 2022
 
 ---
 
-<div align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=matheuscardosolazzarini&show_icons=true&theme=graywhite&hide_border=true&bg_color=0d1117&title_color=c9d1d9&text_color=8b949e&icon_color=8b949e&include_all_commits=true&count_private=true" alt="estatísticas" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheuscardosolazzarini&layout=compact&theme=graywhite&hide_border=true&bg_color=0d1117&title_color=c9d1d9&text_color=8b949e&langs_count=6" alt="linguagens" />
-</div>
 
 <!--
   Bloco opcional: animação da cobrinha percorrendo a grade de contribuições.
