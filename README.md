@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/matheuscardosolazzarinidev">
+  <a href="https://www.linkedin.com/in/matheuslazzarinidev/">
     <img src="https://img.shields.io/badge/LinkedIn-3f4551?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:matheuscardosolazzarini@gmail.com">
